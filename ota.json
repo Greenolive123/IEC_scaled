@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "allowed_devices": ["170924","180924","190924"],
+  "version": "1.0.2",
+  "allowed_devices": ["220924","230924","240924","250924","260924","270924","280924","290924","300924","310924"],
   "firmware_url": "https://raw.githubusercontent.com/Greenolive123/IEC_scaled/main/firmware.bin"
 }
